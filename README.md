@@ -1,3 +1,1 @@
-Trello app
-
-UI automation for the trello application using Java and Appium
+This project automates UI testing for the Trello mobile application using Java and Appium. It features comprehensive test scripts, clear setup instructions, and thorough documentation. Designed to assist QA engineers and developers, the project enhances the efficiency and reliability of mobile app testing, ensuring high-quality standards for the Trello app. Ideal for those looking to streamline and improve their automated testing processes for mobile applications.
